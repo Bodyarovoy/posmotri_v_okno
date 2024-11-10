@@ -138,7 +138,7 @@ ol {
   outline-offset: 1px;
 }
 
-.more-button{
+.more-button {
   width: 99%;
 }
 
@@ -189,7 +189,7 @@ ol {
 
 .search-form__fieldset-title {
   font-size: 18px;
-  font-weight: 400; 
+  font-weight: 400;
 }
 
 .content__list {
@@ -278,5 +278,3 @@ ol {
 .content__video-card-description {
   line-height: 116.2%;
 }
-
-
