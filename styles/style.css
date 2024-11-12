@@ -109,7 +109,7 @@ ol {
   width: 15px;
   height: 15px;
   margin: auto;
-  background-color: inherit;
+  background-color: #fff;
 }
 
 .button {
@@ -122,7 +122,7 @@ ol {
   text-align: center;
   background-color: transparent;
   cursor: pointer;
-  font-family: 'Fira Sans Condensed';
+  font-family: 'Fira Sans Condensed', sans-serif;
 }
 
 .button:active {
